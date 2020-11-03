@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "/Users/CW_Javi/GOworkspace/src/ccl/ccl-auth-api/settings/keys/private_key",
+  "PublicKeyPath": "/Users/CW_Javi/GOworkspace/src/ccl/ccl-auth-api/settings/keys/public_key.pub",
+  "JWTExpirationDelta": 72
+}
